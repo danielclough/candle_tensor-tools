@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "dtype",
+        "ggml",
+        "gguf",
+        "huggingface",
+        "Mmaped",
+        "numpy",
+        "qmode",
+        "qtensor",
+        "safetensor",
+        "safetensors"
+    ]
+}
