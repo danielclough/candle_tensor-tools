@@ -27,5 +27,5 @@ echo ${safetensor_string}
 for q in ${quants[@]}; do
     ./tensor-tools quantize --quantization ${q} \
         ${safetensor_string} \
-        --out-file ${output_dir}/Candle_${model_name}_${q}.gguf
+        --out-file ${output_dir}/${model_name}_${q}.gguf
 done
