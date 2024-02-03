@@ -13,7 +13,7 @@
 The model name in this script will become your output directory for following scripts.
 
 ```sh
-bash init-repo.sh
+bash scripts/init-repo.sh
 ```
 
 #### Create Repo (on HuggingFace)
